@@ -5,8 +5,8 @@ git clone https://github.com/hacker-515m/hack-cam.git
 
 ```
 ```
-cd hackcam
+cd hac-kcam
 ```
 ```
-sudobash start
+sudo bash start
 ```
